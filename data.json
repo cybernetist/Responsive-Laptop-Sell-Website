@@ -1,0 +1,10 @@
+{
+    "cart": [
+      {
+        "url": "",
+        "image": "img/matebook.png",
+        "name": "Laptop for the future",
+        "seller": "Three Dots",
+        "isAvailable": true,
+        "isEligible": true
+      }
